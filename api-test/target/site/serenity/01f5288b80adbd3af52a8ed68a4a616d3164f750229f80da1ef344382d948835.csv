@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User","GET - As admin I have be able to get detail user","SUCCESS","2022-06-28T11:16:49.6072283+07:00[Asia/Bangkok]","0.0","27.62"
+"User","POST - As Admin I have be able to create new user","SUCCESS","2022-06-28T11:17:17.2947272+07:00[Asia/Bangkok]","0.0","2.45"
+"User","PUT - As admin I have be able to update existing user","SUCCESS","2022-06-28T11:17:19.7947208+07:00[Asia/Bangkok]","0.0","2.22"
+"User","DELETE - As admin i have be able to delete existing user","SUCCESS","2022-06-28T11:17:22.0447266+07:00[Asia/Bangkok]","0.0","1.92"
